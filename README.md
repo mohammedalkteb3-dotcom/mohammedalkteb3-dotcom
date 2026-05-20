@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/3fsCg0z/mohammad-s-al-khateeb-banner.png" width="100%" alt="Mohammad S. Al-Khateeb Banner">
+  <img src="https://i.ibb.co/6ndVzCc/mohammad-s-al-khateeb-banner-optimized.webp" width="100%" alt="Mohammad S. Al-Khateeb Banner">
   
   <h1>Hi there, I'm Mohammad Al-Khateeb 👋</h1>
   <p><strong>Communication Engineering Student @ IUST | Electronics Technician & Full-Stack Developer</strong></p>
